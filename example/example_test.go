@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/barnettZQG/inject"
+	"github.com/make-bin/inject"
 )
 
 // Our Awesome Application renders a message using two APIs in our fake
